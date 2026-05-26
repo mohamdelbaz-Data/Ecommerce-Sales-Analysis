@@ -1,0 +1,202 @@
+Order ID,Order Date,Customer ID,Customer Name,City,Country,Product ID,Product Name,Category,Brand,Quantity,Unit Price ($),Discount %,Discount Amt ($),Shipping ($),Total ($),Payment Method,Order Status,Rating (1-5)
+ORD-0001,11/23/2024,C002,Emily Johnson,Los Angeles,USA,P001,iPhone 15 Pro,Electronics,Apple,3,$999.00 ,0%,$0.00 ,$0.00 ,"$2,997.00 ",Visa,Delivered,5
+ORD-0002,2/14/2024,C010,Megan Thomas,San Jose,USA,P007,Nike Air Max 270,Shoes,Nike,1,$150.00 ,0%,$0.00 ,$0.00 ,$150.00 ,Cash on Delivery,Delivered,5
+ORD-0003,1/14/2024,C009,Ryan Taylor,Dallas,USA,P004,Sony WH-1000XM5 Headphones,Electronics,Sony,5,$349.00 ,5%,$87.25 ,$0.00 ,"$1,657.75 ",PayPal,Delivered,1
+ORD-0004,3/22/2024,C007,Daniel Wilson,San Antonio,USA,P006,Slim Fit Jeans,Clothing,Levi's,3,$79.00 ,0%,$0.00 ,$0.00 ,$237.00 ,PayPal,Cancelled,
+ORD-0005,2/22/2024,C002,Emily Johnson,Los Angeles,USA,P007,Nike Air Max 270,Shoes,Nike,1,$150.00 ,0%,$0.00 ,$5.00 ,$155.00 ,Visa,Delivered,4
+ORD-0006,10/1/2024,C002,Emily Johnson,Los Angeles,USA,P015,Samsung 500L Refrigerator,Home Appliances,Samsung,4,"$1,200.00 ",0%,$0.00 ,$15.00 ,"$4,815.00 ",Cash on Delivery,Delivered,3
+ORD-0007,10/22/2024,C004,Sarah Williams,Houston,USA,P012,Chanel No.5 Perfume,Perfumes,Chanel,1,$320.00 ,0%,$0.00 ,$0.00 ,$320.00 ,Visa,Shipped,
+ORD-0008,4/29/2024,C002,Emily Johnson,Los Angeles,USA,P007,Nike Air Max 270,Shoes,Nike,3,$150.00 ,5%,$22.50 ,$5.00 ,$432.50 ,PayPal,Delivered,2
+ORD-0009,12/9/2024,C005,David Brown,Phoenix,USA,P012,Chanel No.5 Perfume,Perfumes,Chanel,1,$320.00 ,10%,$32.00 ,$0.00 ,$288.00 ,Mastercard,Delivered,2
+ORD-0010,8/24/2024,C007,Daniel Wilson,San Antonio,USA,P005,Cotton T-Shirt,Clothing,H&M,5,$29.00 ,0%,$0.00 ,$5.00 ,$150.00 ,Visa,Processing,
+ORD-0011,4/27/2024,C001,James Anderson,New York,USA,P013,Nivea Moisturizing Cream,Beauty,Nivea,3,$18.00 ,5%,$2.70 ,$5.00 ,$56.30 ,Cash on Delivery,Delivered,3
+ORD-0012,4/18/2024,C008,Ashley Moore,San Diego,USA,P007,Nike Air Max 270,Shoes,Nike,4,$150.00 ,0%,$0.00 ,$5.00 ,$605.00 ,Cash on Delivery,Delivered,5
+ORD-0013,5/14/2024,C010,Megan Thomas,San Jose,USA,P007,Nike Air Max 270,Shoes,Nike,5,$150.00 ,5%,$37.50 ,$5.00 ,$717.50 ,Mastercard,Delivered,5
+ORD-0014,9/9/2024,C002,Emily Johnson,Los Angeles,USA,P013,Nivea Moisturizing Cream,Beauty,Nivea,1,$18.00 ,20%,$3.60 ,$0.00 ,$14.40 ,Mastercard,Delivered,4
+ORD-0015,11/1/2024,C002,Emily Johnson,Los Angeles,USA,P007,Nike Air Max 270,Shoes,Nike,4,$150.00 ,10%,$60.00 ,$10.00 ,$550.00 ,Cash on Delivery,Delivered,1
+ORD-0016,12/14/2024,C002,Emily Johnson,Los Angeles,USA,P011,Casio G-Shock Watch,Watches,Casio,5,$120.00 ,20%,$120.00 ,$5.00 ,$485.00 ,PayPal,Shipped,
+ORD-0017,2/27/2024,C005,David Brown,Phoenix,USA,P007,Nike Air Max 270,Shoes,Nike,2,$150.00 ,5%,$15.00 ,$0.00 ,$285.00 ,PayPal,Cancelled,
+ORD-0018,9/13/2024,C003,Michael Smith,Chicago,USA,P009,Python for Beginners,Books,O'Reilly,1,$35.00 ,20%,$7.00 ,$5.00 ,$33.00 ,Cash on Delivery,Processing,
+ORD-0019,11/7/2024,C004,Sarah Williams,Houston,USA,P003,Dell XPS Laptop,Electronics,Dell,3,"$1,299.00 ",20%,$779.40 ,$0.00 ,"$3,117.60 ",Cash on Delivery,Delivered,1
+ORD-0020,11/2/2024,C006,Jessica Davis,Philadelphia,USA,P008,Adidas Ultraboost 22,Shoes,Adidas,1,$180.00 ,0%,$0.00 ,$5.00 ,$185.00 ,PayPal,Processing,
+ORD-0021,5/2/2024,C001,James Anderson,New York,USA,P004,Sony WH-1000XM5 Headphones,Electronics,Sony,5,$349.00 ,0%,$0.00 ,$0.00 ,"$1,745.00 ",Visa,Shipped,
+ORD-0022,9/29/2024,C003,Michael Smith,Chicago,USA,P003,Dell XPS Laptop,Electronics,Dell,4,"$1,299.00 ",10%,$519.60 ,$0.00 ,"$4,676.40 ",Cash on Delivery,Delivered,4
+ORD-0023,4/18/2024,C009,Ryan Taylor,Dallas,USA,P013,Nivea Moisturizing Cream,Beauty,Nivea,2,$18.00 ,15%,$5.40 ,$5.00 ,$35.60 ,PayPal,Delivered,4
+ORD-0024,9/21/2024,C008,Ashley Moore,San Diego,USA,P002,Samsung Galaxy S24,Electronics,Samsung,2,$849.00 ,0%,$0.00 ,$0.00 ,"$1,698.00 ",Cash on Delivery,Delivered,5
+ORD-0025,4/27/2024,C010,Megan Thomas,San Jose,USA,P004,Sony WH-1000XM5 Headphones,Electronics,Sony,1,$349.00 ,0%,$0.00 ,$0.00 ,$349.00 ,Visa,Delivered,3
+ORD-0026,2/6/2024,C009,Ryan Taylor,Dallas,USA,P004,Sony WH-1000XM5 Headphones,Electronics,Sony,3,$349.00 ,15%,$157.05 ,$10.00 ,$899.95 ,Mastercard,Delivered,5
+ORD-0027,10/22/2024,C008,Ashley Moore,San Diego,USA,P004,Sony WH-1000XM5 Headphones,Electronics,Sony,4,$349.00 ,20%,$279.20 ,$10.00 ,"$1,126.80 ",Visa,Delivered,4
+ORD-0028,6/30/2024,C007,Daniel Wilson,San Antonio,USA,P007,Nike Air Max 270,Shoes,Nike,4,$150.00 ,20%,$120.00 ,$0.00 ,$480.00 ,Visa,Shipped,
+ORD-0029,2/1/2024,C007,Daniel Wilson,San Antonio,USA,P012,Chanel No.5 Perfume,Perfumes,Chanel,3,$320.00 ,20%,$192.00 ,$0.00 ,$768.00 ,Mastercard,Delivered,5
+ORD-0030,8/17/2024,C003,Michael Smith,Chicago,USA,P007,Nike Air Max 270,Shoes,Nike,2,$150.00 ,0%,$0.00 ,$10.00 ,$310.00 ,Visa,Delivered,4
+ORD-0031,10/8/2024,C002,Emily Johnson,Los Angeles,USA,P001,iPhone 15 Pro,Electronics,Apple,5,$999.00 ,20%,$999.00 ,$0.00 ,"$3,996.00 ",Mastercard,Cancelled,
+ORD-0032,3/26/2024,C007,Daniel Wilson,San Antonio,USA,P008,Adidas Ultraboost 22,Shoes,Adidas,4,$180.00 ,0%,$0.00 ,$10.00 ,$730.00 ,Mastercard,Cancelled,
+ORD-0033,7/13/2024,C001,James Anderson,New York,USA,P007,Nike Air Max 270,Shoes,Nike,3,$150.00 ,20%,$90.00 ,$10.00 ,$370.00 ,Cash on Delivery,Delivered,4
+ORD-0034,3/20/2024,C004,Sarah Williams,Houston,USA,P005,Cotton T-Shirt,Clothing,H&M,2,$29.00 ,0%,$0.00 ,$15.00 ,$73.00 ,Visa,Shipped,
+ORD-0035,6/9/2024,C001,James Anderson,New York,USA,P001,iPhone 15 Pro,Electronics,Apple,5,$999.00 ,5%,$249.75 ,$15.00 ,"$4,760.25 ",Cash on Delivery,Cancelled,
+ORD-0036,3/21/2024,C001,James Anderson,New York,USA,P009,Python for Beginners,Books,O'Reilly,1,$35.00 ,20%,$7.00 ,$0.00 ,$28.00 ,Visa,Delivered,2
+ORD-0037,7/25/2024,C002,Emily Johnson,Los Angeles,USA,P015,Samsung 500L Refrigerator,Home Appliances,Samsung,5,"$1,200.00 ",0%,$0.00 ,$15.00 ,"$6,015.00 ",Cash on Delivery,Delivered,1
+ORD-0038,8/2/2024,C010,Megan Thomas,San Jose,USA,P010,Excel Mastery Guide,Books,Wiley,5,$28.00 ,0%,$0.00 ,$5.00 ,$145.00 ,PayPal,Delivered,2
+ORD-0039,5/15/2024,C007,Daniel Wilson,San Antonio,USA,P003,Dell XPS Laptop,Electronics,Dell,3,"$1,299.00 ",5%,$194.85 ,$5.00 ,"$3,707.15 ",Visa,Cancelled,
+ORD-0040,1/5/2024,C008,Ashley Moore,San Diego,USA,P010,Excel Mastery Guide,Books,Wiley,5,$28.00 ,0%,$0.00 ,$0.00 ,$140.00 ,Cash on Delivery,Delivered,3
+ORD-0041,3/8/2024,C006,Jessica Davis,Philadelphia,USA,P015,Samsung 500L Refrigerator,Home Appliances,Samsung,1,"$1,200.00 ",0%,$0.00 ,$5.00 ,"$1,205.00 ",Apple Pay,Delivered,5
+ORD-0042,12/26/2024,C005,David Brown,Phoenix,USA,P010,Excel Mastery Guide,Books,Wiley,5,$28.00 ,0%,$0.00 ,$15.00 ,$155.00 ,Visa,Delivered,2
+ORD-0043,5/15/2024,C002,Emily Johnson,Los Angeles,USA,P015,Samsung 500L Refrigerator,Home Appliances,Samsung,1,"$1,200.00 ",15%,$180.00 ,$15.00 ,"$1,035.00 ",PayPal,Delivered,5
+ORD-0044,4/17/2024,C006,Jessica Davis,Philadelphia,USA,P004,Sony WH-1000XM5 Headphones,Electronics,Sony,3,$349.00 ,10%,$104.70 ,$10.00 ,$952.30 ,Visa,Delivered,1
+ORD-0045,11/20/2024,C007,Daniel Wilson,San Antonio,USA,P014,Carrier 1.5 Ton Split AC,Home Appliances,Carrier,3,$750.00 ,0%,$0.00 ,$0.00 ,"$2,250.00 ",Mastercard,Delivered,3
+ORD-0046,3/23/2024,C008,Ashley Moore,San Diego,USA,P009,Python for Beginners,Books,O'Reilly,4,$35.00 ,10%,$14.00 ,$0.00 ,$126.00 ,Mastercard,Delivered,5
+ORD-0047,1/19/2024,C006,Jessica Davis,Philadelphia,USA,P010,Excel Mastery Guide,Books,Wiley,5,$28.00 ,0%,$0.00 ,$10.00 ,$150.00 ,PayPal,Delivered,3
+ORD-0048,1/21/2024,C006,Jessica Davis,Philadelphia,USA,P004,Sony WH-1000XM5 Headphones,Electronics,Sony,2,$349.00 ,15%,$104.70 ,$0.00 ,$593.30 ,Cash on Delivery,Delivered,4
+ORD-0049,11/13/2024,C003,Michael Smith,Chicago,USA,P015,Samsung 500L Refrigerator,Home Appliances,Samsung,2,"$1,200.00 ",20%,$480.00 ,$0.00 ,"$1,920.00 ",Mastercard,Returned,
+ORD-0050,7/30/2024,C001,James Anderson,New York,USA,P003,Dell XPS Laptop,Electronics,Dell,3,"$1,299.00 ",20%,$779.40 ,$10.00 ,"$3,127.60 ",Mastercard,Processing,
+ORD-0051,5/16/2024,C003,Michael Smith,Chicago,USA,P013,Nivea Moisturizing Cream,Beauty,Nivea,1,$18.00 ,5%,$0.90 ,$0.00 ,$17.10 ,Mastercard,Processing,
+ORD-0052,4/12/2024,C008,Ashley Moore,San Diego,USA,P006,Slim Fit Jeans,Clothing,Levi's,3,$79.00 ,20%,$47.40 ,$0.00 ,$189.60 ,Mastercard,Delivered,4
+ORD-0053,6/17/2024,C005,David Brown,Phoenix,USA,P014,Carrier 1.5 Ton Split AC,Home Appliances,Carrier,1,$750.00 ,20%,$150.00 ,$5.00 ,$605.00 ,Cash on Delivery,Delivered,4
+ORD-0054,12/13/2024,C009,Ryan Taylor,Dallas,USA,P006,Slim Fit Jeans,Clothing,Levi's,1,$79.00 ,0%,$0.00 ,$5.00 ,$84.00 ,PayPal,Delivered,1
+ORD-0055,2/25/2024,C010,Megan Thomas,San Jose,USA,P007,Nike Air Max 270,Shoes,Nike,3,$150.00 ,15%,$67.50 ,$5.00 ,$387.50 ,Cash on Delivery,Delivered,1
+ORD-0056,7/16/2024,C010,Megan Thomas,San Jose,USA,P004,Sony WH-1000XM5 Headphones,Electronics,Sony,3,$349.00 ,0%,$0.00 ,$10.00 ,"$1,057.00 ",Cash on Delivery,Delivered,2
+ORD-0057,7/5/2024,C007,Daniel Wilson,San Antonio,USA,P002,Samsung Galaxy S24,Electronics,Samsung,3,$849.00 ,10%,$254.70 ,$5.00 ,"$2,297.30 ",Visa,Shipped,
+ORD-0058,6/2/2024,C009,Ryan Taylor,Dallas,USA,P005,Cotton T-Shirt,Clothing,H&M,4,$29.00 ,0%,$0.00 ,$10.00 ,$126.00 ,Cash on Delivery,Shipped,
+ORD-0059,3/6/2024,C004,Sarah Williams,Houston,USA,P007,Nike Air Max 270,Shoes,Nike,4,$150.00 ,15%,$90.00 ,$0.00 ,$510.00 ,PayPal,Delivered,4
+ORD-0060,10/7/2024,C001,James Anderson,New York,USA,P005,Cotton T-Shirt,Clothing,H&M,3,$29.00 ,0%,$0.00 ,$10.00 ,$97.00 ,Cash on Delivery,Shipped,
+ORD-0061,12/1/2024,C006,Jessica Davis,Philadelphia,USA,P008,Adidas Ultraboost 22,Shoes,Adidas,4,$180.00 ,5%,$36.00 ,$0.00 ,$684.00 ,Mastercard,Delivered,1
+ORD-0062,5/25/2024,C009,Ryan Taylor,Dallas,USA,P011,Casio G-Shock Watch,Watches,Casio,5,$120.00 ,0%,$0.00 ,$0.00 ,$600.00 ,Mastercard,Processing,
+ORD-0063,12/10/2024,C005,David Brown,Phoenix,USA,P004,Sony WH-1000XM5 Headphones,Electronics,Sony,2,$349.00 ,0%,$0.00 ,$0.00 ,$698.00 ,Apple Pay,Delivered,5
+ORD-0064,2/7/2024,C008,Ashley Moore,San Diego,USA,P007,Nike Air Max 270,Shoes,Nike,5,$150.00 ,0%,$0.00 ,$10.00 ,$760.00 ,Mastercard,Delivered,2
+ORD-0065,12/1/2024,C001,James Anderson,New York,USA,P015,Samsung 500L Refrigerator,Home Appliances,Samsung,1,"$1,200.00 ",20%,$240.00 ,$10.00 ,$970.00 ,Cash on Delivery,Delivered,4
+ORD-0066,1/26/2024,C009,Ryan Taylor,Dallas,USA,P004,Sony WH-1000XM5 Headphones,Electronics,Sony,1,$349.00 ,5%,$17.45 ,$0.00 ,$331.55 ,Cash on Delivery,Processing,
+ORD-0067,10/13/2024,C010,Megan Thomas,San Jose,USA,P006,Slim Fit Jeans,Clothing,Levi's,4,$79.00 ,10%,$31.60 ,$15.00 ,$299.40 ,Cash on Delivery,Delivered,4
+ORD-0068,3/22/2024,C008,Ashley Moore,San Diego,USA,P008,Adidas Ultraboost 22,Shoes,Adidas,3,$180.00 ,20%,$108.00 ,$0.00 ,$432.00 ,PayPal,Processing,
+ORD-0069,9/23/2024,C008,Ashley Moore,San Diego,USA,P011,Casio G-Shock Watch,Watches,Casio,2,$120.00 ,0%,$0.00 ,$10.00 ,$250.00 ,PayPal,Delivered,2
+ORD-0070,5/19/2024,C006,Jessica Davis,Philadelphia,USA,P006,Slim Fit Jeans,Clothing,Levi's,5,$79.00 ,0%,$0.00 ,$0.00 ,$395.00 ,Apple Pay,Delivered,2
+ORD-0071,12/27/2024,C004,Sarah Williams,Houston,USA,P002,Samsung Galaxy S24,Electronics,Samsung,4,$849.00 ,5%,$169.80 ,$5.00 ,"$3,231.20 ",Apple Pay,Delivered,1
+ORD-0072,4/15/2024,C007,Daniel Wilson,San Antonio,USA,P007,Nike Air Max 270,Shoes,Nike,5,$150.00 ,15%,$112.50 ,$0.00 ,$637.50 ,Cash on Delivery,Processing,
+ORD-0073,7/13/2024,C008,Ashley Moore,San Diego,USA,P001,iPhone 15 Pro,Electronics,Apple,3,$999.00 ,0%,$0.00 ,$10.00 ,"$3,007.00 ",Apple Pay,Processing,
+ORD-0074,10/2/2024,C009,Ryan Taylor,Dallas,USA,P013,Nivea Moisturizing Cream,Beauty,Nivea,5,$18.00 ,0%,$0.00 ,$10.00 ,$100.00 ,Apple Pay,Delivered,4
+ORD-0075,1/15/2024,C007,Daniel Wilson,San Antonio,USA,P006,Slim Fit Jeans,Clothing,Levi's,4,$79.00 ,15%,$47.40 ,$0.00 ,$268.60 ,Mastercard,Processing,
+ORD-0076,11/14/2024,C009,Ryan Taylor,Dallas,USA,P001,iPhone 15 Pro,Electronics,Apple,4,$999.00 ,10%,$399.60 ,$15.00 ,"$3,611.40 ",Visa,Shipped,
+ORD-0077,11/25/2024,C007,Daniel Wilson,San Antonio,USA,P003,Dell XPS Laptop,Electronics,Dell,4,"$1,299.00 ",0%,$0.00 ,$0.00 ,"$5,196.00 ",PayPal,Delivered,2
+ORD-0078,8/20/2024,C006,Jessica Davis,Philadelphia,USA,P006,Slim Fit Jeans,Clothing,Levi's,4,$79.00 ,0%,$0.00 ,$10.00 ,$326.00 ,Visa,Delivered,4
+ORD-0079,1/10/2024,C009,Ryan Taylor,Dallas,USA,P001,iPhone 15 Pro,Electronics,Apple,3,$999.00 ,0%,$0.00 ,$0.00 ,"$2,997.00 ",Visa,Shipped,
+ORD-0080,1/16/2024,C004,Sarah Williams,Houston,USA,P004,Sony WH-1000XM5 Headphones,Electronics,Sony,1,$349.00 ,10%,$34.90 ,$0.00 ,$314.10 ,Apple Pay,Delivered,1
+ORD-0081,10/15/2024,C004,Sarah Williams,Houston,USA,P008,Adidas Ultraboost 22,Shoes,Adidas,3,$180.00 ,20%,$108.00 ,$5.00 ,$437.00 ,Cash on Delivery,Delivered,1
+ORD-0082,3/24/2024,C005,David Brown,Phoenix,USA,P002,Samsung Galaxy S24,Electronics,Samsung,5,$849.00 ,0%,$0.00 ,$5.00 ,"$4,250.00 ",Apple Pay,Delivered,4
+ORD-0083,4/11/2024,C002,Emily Johnson,Los Angeles,USA,P010,Excel Mastery Guide,Books,Wiley,2,$28.00 ,0%,$0.00 ,$5.00 ,$61.00 ,Cash on Delivery,Processing,
+ORD-0084,3/2/2024,C010,Megan Thomas,San Jose,USA,P013,Nivea Moisturizing Cream,Beauty,Nivea,1,$18.00 ,0%,$0.00 ,$15.00 ,$33.00 ,PayPal,Delivered,1
+ORD-0085,9/16/2024,C006,Jessica Davis,Philadelphia,USA,P001,iPhone 15 Pro,Electronics,Apple,4,$999.00 ,20%,$799.20 ,$10.00 ,"$3,206.80 ",PayPal,Delivered,4
+ORD-0086,12/28/2024,C003,Michael Smith,Chicago,USA,P007,Nike Air Max 270,Shoes,Nike,2,$150.00 ,15%,$45.00 ,$15.00 ,$270.00 ,PayPal,Cancelled,
+ORD-0087,11/11/2024,C009,Ryan Taylor,Dallas,USA,P013,Nivea Moisturizing Cream,Beauty,Nivea,4,$18.00 ,5%,$3.60 ,$10.00 ,$78.40 ,Cash on Delivery,Processing,
+ORD-0088,5/17/2024,C006,Jessica Davis,Philadelphia,USA,P014,Carrier 1.5 Ton Split AC,Home Appliances,Carrier,2,$750.00 ,20%,$300.00 ,$0.00 ,"$1,200.00 ",Apple Pay,Delivered,2
+ORD-0089,8/25/2024,C010,Megan Thomas,San Jose,USA,P010,Excel Mastery Guide,Books,Wiley,4,$28.00 ,0%,$0.00 ,$0.00 ,$112.00 ,PayPal,Delivered,2
+ORD-0090,9/6/2024,C004,Sarah Williams,Houston,USA,P006,Slim Fit Jeans,Clothing,Levi's,3,$79.00 ,0%,$0.00 ,$5.00 ,$242.00 ,PayPal,Processing,
+ORD-0091,10/11/2024,C001,James Anderson,New York,USA,P009,Python for Beginners,Books,O'Reilly,2,$35.00 ,0%,$0.00 ,$0.00 ,$70.00 ,Apple Pay,Shipped,
+ORD-0092,10/11/2024,C004,Sarah Williams,Houston,USA,P012,Chanel No.5 Perfume,Perfumes,Chanel,4,$320.00 ,15%,$192.00 ,$10.00 ,"$1,098.00 ",Visa,Delivered,1
+ORD-0093,5/30/2024,C004,Sarah Williams,Houston,USA,P007,Nike Air Max 270,Shoes,Nike,2,$150.00 ,0%,$0.00 ,$15.00 ,$315.00 ,Cash on Delivery,Delivered,5
+ORD-0094,6/25/2024,C007,Daniel Wilson,San Antonio,USA,P012,Chanel No.5 Perfume,Perfumes,Chanel,5,$320.00 ,0%,$0.00 ,$5.00 ,"$1,605.00 ",PayPal,Shipped,
+ORD-0095,6/5/2024,C005,David Brown,Phoenix,USA,P004,Sony WH-1000XM5 Headphones,Electronics,Sony,1,$349.00 ,15%,$52.35 ,$0.00 ,$296.65 ,Cash on Delivery,Delivered,2
+ORD-0096,4/8/2024,C004,Sarah Williams,Houston,USA,P012,Chanel No.5 Perfume,Perfumes,Chanel,4,$320.00 ,0%,$0.00 ,$15.00 ,"$1,295.00 ",Cash on Delivery,Returned,
+ORD-0097,11/1/2024,C005,David Brown,Phoenix,USA,P002,Samsung Galaxy S24,Electronics,Samsung,2,$849.00 ,0%,$0.00 ,$0.00 ,"$1,698.00 ",PayPal,Delivered,1
+ORD-0098,12/28/2024,C009,Ryan Taylor,Dallas,USA,P003,Dell XPS Laptop,Electronics,Dell,3,"$1,299.00 ",0%,$0.00 ,$0.00 ,"$3,897.00 ",Mastercard,Delivered,4
+ORD-0099,2/22/2024,C001,James Anderson,New York,USA,P010,Excel Mastery Guide,Books,Wiley,3,$28.00 ,5%,$4.20 ,$10.00 ,$89.80 ,Mastercard,Delivered,1
+ORD-0100,5/9/2024,C008,Ashley Moore,San Diego,USA,P002,Samsung Galaxy S24,Electronics,Samsung,1,$849.00 ,5%,$42.45 ,$10.00 ,$816.55 ,Visa,Delivered,2
+ORD-0101,3/17/2024,C010,Megan Thomas,San Jose,USA,P005,Cotton T-Shirt,Clothing,H&M,1,$29.00 ,0%,$0.00 ,$0.00 ,$29.00 ,Apple Pay,Delivered,5
+ORD-0102,11/1/2024,C010,Megan Thomas,San Jose,USA,P004,Sony WH-1000XM5 Headphones,Electronics,Sony,5,$349.00 ,5%,$87.25 ,$10.00 ,"$1,667.75 ",PayPal,Cancelled,
+ORD-0103,10/28/2024,C007,Daniel Wilson,San Antonio,USA,P005,Cotton T-Shirt,Clothing,H&M,5,$29.00 ,10%,$14.50 ,$0.00 ,$130.50 ,Visa,Delivered,2
+ORD-0104,11/16/2024,C004,Sarah Williams,Houston,USA,P005,Cotton T-Shirt,Clothing,H&M,1,$29.00 ,0%,$0.00 ,$0.00 ,$29.00 ,Visa,Delivered,2
+ORD-0105,1/2/2024,C007,Daniel Wilson,San Antonio,USA,P008,Adidas Ultraboost 22,Shoes,Adidas,5,$180.00 ,5%,$45.00 ,$5.00 ,$860.00 ,PayPal,Delivered,3
+ORD-0106,12/25/2024,C008,Ashley Moore,San Diego,USA,P002,Samsung Galaxy S24,Electronics,Samsung,2,$849.00 ,0%,$0.00 ,$15.00 ,"$1,713.00 ",Mastercard,Shipped,
+ORD-0107,8/5/2024,C002,Emily Johnson,Los Angeles,USA,P009,Python for Beginners,Books,O'Reilly,2,$35.00 ,15%,$10.50 ,$0.00 ,$59.50 ,Mastercard,Cancelled,
+ORD-0108,2/6/2024,C001,James Anderson,New York,USA,P003,Dell XPS Laptop,Electronics,Dell,3,"$1,299.00 ",10%,$389.70 ,$15.00 ,"$3,522.30 ",Apple Pay,Cancelled,
+ORD-0109,3/4/2024,C008,Ashley Moore,San Diego,USA,P012,Chanel No.5 Perfume,Perfumes,Chanel,3,$320.00 ,15%,$144.00 ,$10.00 ,$826.00 ,Cash on Delivery,Cancelled,
+ORD-0110,10/3/2024,C008,Ashley Moore,San Diego,USA,P008,Adidas Ultraboost 22,Shoes,Adidas,1,$180.00 ,10%,$18.00 ,$0.00 ,$162.00 ,PayPal,Processing,
+ORD-0111,11/5/2024,C005,David Brown,Phoenix,USA,P001,iPhone 15 Pro,Electronics,Apple,1,$999.00 ,0%,$0.00 ,$15.00 ,"$1,014.00 ",Visa,Delivered,3
+ORD-0112,10/22/2024,C001,James Anderson,New York,USA,P013,Nivea Moisturizing Cream,Beauty,Nivea,2,$18.00 ,5%,$1.80 ,$15.00 ,$49.20 ,PayPal,Shipped,
+ORD-0113,4/2/2024,C010,Megan Thomas,San Jose,USA,P007,Nike Air Max 270,Shoes,Nike,4,$150.00 ,0%,$0.00 ,$10.00 ,$610.00 ,PayPal,Delivered,3
+ORD-0114,12/9/2024,C002,Emily Johnson,Los Angeles,USA,P014,Carrier 1.5 Ton Split AC,Home Appliances,Carrier,2,$750.00 ,0%,$0.00 ,$10.00 ,"$1,510.00 ",PayPal,Shipped,
+ORD-0115,12/5/2024,C007,Daniel Wilson,San Antonio,USA,P014,Carrier 1.5 Ton Split AC,Home Appliances,Carrier,5,$750.00 ,0%,$0.00 ,$10.00 ,"$3,760.00 ",PayPal,Delivered,3
+ORD-0116,2/29/2024,C007,Daniel Wilson,San Antonio,USA,P014,Carrier 1.5 Ton Split AC,Home Appliances,Carrier,5,$750.00 ,20%,$750.00 ,$0.00 ,"$3,000.00 ",Cash on Delivery,Shipped,
+ORD-0117,8/24/2024,C007,Daniel Wilson,San Antonio,USA,P001,iPhone 15 Pro,Electronics,Apple,2,$999.00 ,10%,$199.80 ,$5.00 ,"$1,803.20 ",Apple Pay,Delivered,4
+ORD-0118,1/27/2024,C004,Sarah Williams,Houston,USA,P005,Cotton T-Shirt,Clothing,H&M,5,$29.00 ,0%,$0.00 ,$5.00 ,$150.00 ,Apple Pay,Delivered,1
+ORD-0119,1/15/2024,C010,Megan Thomas,San Jose,USA,P013,Nivea Moisturizing Cream,Beauty,Nivea,2,$18.00 ,15%,$5.40 ,$0.00 ,$30.60 ,Visa,Delivered,5
+ORD-0120,7/27/2024,C002,Emily Johnson,Los Angeles,USA,P004,Sony WH-1000XM5 Headphones,Electronics,Sony,1,$349.00 ,5%,$17.45 ,$0.00 ,$331.55 ,Mastercard,Delivered,4
+ORD-0121,5/29/2024,C009,Ryan Taylor,Dallas,USA,P012,Chanel No.5 Perfume,Perfumes,Chanel,3,$320.00 ,5%,$48.00 ,$10.00 ,$922.00 ,Mastercard,Returned,
+ORD-0122,8/21/2024,C009,Ryan Taylor,Dallas,USA,P003,Dell XPS Laptop,Electronics,Dell,4,"$1,299.00 ",0%,$0.00 ,$15.00 ,"$5,211.00 ",Mastercard,Delivered,1
+ORD-0123,5/21/2024,C007,Daniel Wilson,San Antonio,USA,P006,Slim Fit Jeans,Clothing,Levi's,5,$79.00 ,0%,$0.00 ,$0.00 ,$395.00 ,PayPal,Delivered,5
+ORD-0124,10/23/2024,C008,Ashley Moore,San Diego,USA,P014,Carrier 1.5 Ton Split AC,Home Appliances,Carrier,2,$750.00 ,5%,$75.00 ,$15.00 ,"$1,440.00 ",PayPal,Delivered,5
+ORD-0125,10/5/2024,C007,Daniel Wilson,San Antonio,USA,P008,Adidas Ultraboost 22,Shoes,Adidas,3,$180.00 ,20%,$108.00 ,$0.00 ,$432.00 ,Mastercard,Returned,
+ORD-0126,10/19/2024,C007,Daniel Wilson,San Antonio,USA,P004,Sony WH-1000XM5 Headphones,Electronics,Sony,4,$349.00 ,0%,$0.00 ,$5.00 ,"$1,401.00 ",Apple Pay,Shipped,
+ORD-0127,7/16/2024,C003,Michael Smith,Chicago,USA,P008,Adidas Ultraboost 22,Shoes,Adidas,1,$180.00 ,0%,$0.00 ,$15.00 ,$195.00 ,PayPal,Cancelled,
+ORD-0128,2/21/2024,C008,Ashley Moore,San Diego,USA,P002,Samsung Galaxy S24,Electronics,Samsung,5,$849.00 ,5%,$212.25 ,$0.00 ,"$4,032.75 ",Apple Pay,Shipped,
+ORD-0129,12/1/2024,C003,Michael Smith,Chicago,USA,P002,Samsung Galaxy S24,Electronics,Samsung,4,$849.00 ,20%,$679.20 ,$5.00 ,"$2,721.80 ",Apple Pay,Delivered,1
+ORD-0130,6/17/2024,C009,Ryan Taylor,Dallas,USA,P007,Nike Air Max 270,Shoes,Nike,3,$150.00 ,15%,$67.50 ,$10.00 ,$392.50 ,Visa,Processing,
+ORD-0131,11/12/2024,C002,Emily Johnson,Los Angeles,USA,P004,Sony WH-1000XM5 Headphones,Electronics,Sony,3,$349.00 ,0%,$0.00 ,$0.00 ,"$1,047.00 ",Visa,Delivered,1
+ORD-0132,8/15/2024,C003,Michael Smith,Chicago,USA,P012,Chanel No.5 Perfume,Perfumes,Chanel,3,$320.00 ,0%,$0.00 ,$0.00 ,$960.00 ,Visa,Delivered,3
+ORD-0133,7/2/2024,C006,Jessica Davis,Philadelphia,USA,P007,Nike Air Max 270,Shoes,Nike,2,$150.00 ,0%,$0.00 ,$15.00 ,$315.00 ,Mastercard,Delivered,2
+ORD-0134,3/30/2024,C002,Emily Johnson,Los Angeles,USA,P010,Excel Mastery Guide,Books,Wiley,4,$28.00 ,10%,$11.20 ,$0.00 ,$100.80 ,Cash on Delivery,Delivered,2
+ORD-0135,4/28/2024,C008,Ashley Moore,San Diego,USA,P011,Casio G-Shock Watch,Watches,Casio,3,$120.00 ,5%,$18.00 ,$5.00 ,$347.00 ,Apple Pay,Shipped,
+ORD-0136,5/27/2024,C009,Ryan Taylor,Dallas,USA,P003,Dell XPS Laptop,Electronics,Dell,1,"$1,299.00 ",5%,$64.95 ,$5.00 ,"$1,239.05 ",PayPal,Returned,
+ORD-0137,11/23/2024,C007,Daniel Wilson,San Antonio,USA,P012,Chanel No.5 Perfume,Perfumes,Chanel,3,$320.00 ,5%,$48.00 ,$5.00 ,$917.00 ,Apple Pay,Delivered,4
+ORD-0138,2/24/2024,C004,Sarah Williams,Houston,USA,P007,Nike Air Max 270,Shoes,Nike,5,$150.00 ,0%,$0.00 ,$15.00 ,$765.00 ,PayPal,Delivered,1
+ORD-0139,12/3/2024,C007,Daniel Wilson,San Antonio,USA,P005,Cotton T-Shirt,Clothing,H&M,1,$29.00 ,10%,$2.90 ,$0.00 ,$26.10 ,Apple Pay,Cancelled,
+ORD-0140,5/26/2024,C004,Sarah Williams,Houston,USA,P010,Excel Mastery Guide,Books,Wiley,3,$28.00 ,0%,$0.00 ,$0.00 ,$84.00 ,Mastercard,Delivered,1
+ORD-0141,11/17/2024,C001,James Anderson,New York,USA,P005,Cotton T-Shirt,Clothing,H&M,4,$29.00 ,0%,$0.00 ,$15.00 ,$131.00 ,Mastercard,Delivered,1
+ORD-0142,5/31/2024,C006,Jessica Davis,Philadelphia,USA,P012,Chanel No.5 Perfume,Perfumes,Chanel,4,$320.00 ,0%,$0.00 ,$0.00 ,"$1,280.00 ",Cash on Delivery,Delivered,3
+ORD-0143,9/28/2024,C009,Ryan Taylor,Dallas,USA,P015,Samsung 500L Refrigerator,Home Appliances,Samsung,3,"$1,200.00 ",20%,$720.00 ,$0.00 ,"$2,880.00 ",Apple Pay,Delivered,3
+ORD-0144,6/22/2024,C002,Emily Johnson,Los Angeles,USA,P008,Adidas Ultraboost 22,Shoes,Adidas,1,$180.00 ,0%,$0.00 ,$0.00 ,$180.00 ,Apple Pay,Processing,
+ORD-0145,10/12/2024,C006,Jessica Davis,Philadelphia,USA,P002,Samsung Galaxy S24,Electronics,Samsung,4,$849.00 ,0%,$0.00 ,$5.00 ,"$3,401.00 ",Apple Pay,Delivered,3
+ORD-0146,12/10/2024,C005,David Brown,Phoenix,USA,P010,Excel Mastery Guide,Books,Wiley,4,$28.00 ,20%,$22.40 ,$5.00 ,$94.60 ,Mastercard,Delivered,4
+ORD-0147,1/13/2024,C010,Megan Thomas,San Jose,USA,P015,Samsung 500L Refrigerator,Home Appliances,Samsung,5,"$1,200.00 ",0%,$0.00 ,$15.00 ,"$6,015.00 ",Visa,Delivered,4
+ORD-0148,12/24/2024,C005,David Brown,Phoenix,USA,P011,Casio G-Shock Watch,Watches,Casio,4,$120.00 ,0%,$0.00 ,$0.00 ,$480.00 ,Visa,Delivered,3
+ORD-0149,9/9/2024,C002,Emily Johnson,Los Angeles,USA,P002,Samsung Galaxy S24,Electronics,Samsung,2,$849.00 ,10%,$169.80 ,$0.00 ,"$1,528.20 ",PayPal,Delivered,5
+ORD-0150,8/2/2024,C010,Megan Thomas,San Jose,USA,P012,Chanel No.5 Perfume,Perfumes,Chanel,2,$320.00 ,5%,$32.00 ,$0.00 ,$608.00 ,Cash on Delivery,Processing,
+ORD-0151,7/27/2024,C005,David Brown,Phoenix,USA,P001,iPhone 15 Pro,Electronics,Apple,3,$999.00 ,0%,$0.00 ,$10.00 ,"$3,007.00 ",Mastercard,Delivered,3
+ORD-0152,2/20/2024,C006,Jessica Davis,Philadelphia,USA,P009,Python for Beginners,Books,O'Reilly,3,$35.00 ,0%,$0.00 ,$10.00 ,$115.00 ,Visa,Delivered,4
+ORD-0153,2/16/2024,C004,Sarah Williams,Houston,USA,P011,Casio G-Shock Watch,Watches,Casio,5,$120.00 ,0%,$0.00 ,$0.00 ,$600.00 ,Mastercard,Shipped,
+ORD-0154,3/5/2024,C010,Megan Thomas,San Jose,USA,P004,Sony WH-1000XM5 Headphones,Electronics,Sony,1,$349.00 ,20%,$69.80 ,$15.00 ,$294.20 ,Mastercard,Delivered,2
+ORD-0155,6/17/2024,C003,Michael Smith,Chicago,USA,P013,Nivea Moisturizing Cream,Beauty,Nivea,5,$18.00 ,0%,$0.00 ,$5.00 ,$95.00 ,Mastercard,Processing,
+ORD-0156,3/7/2024,C009,Ryan Taylor,Dallas,USA,P005,Cotton T-Shirt,Clothing,H&M,2,$29.00 ,0%,$0.00 ,$0.00 ,$58.00 ,PayPal,Delivered,2
+ORD-0157,10/28/2024,C006,Jessica Davis,Philadelphia,USA,P001,iPhone 15 Pro,Electronics,Apple,2,$999.00 ,0%,$0.00 ,$0.00 ,"$1,998.00 ",Apple Pay,Delivered,5
+ORD-0158,2/28/2024,C002,Emily Johnson,Los Angeles,USA,P008,Adidas Ultraboost 22,Shoes,Adidas,4,$180.00 ,20%,$144.00 ,$5.00 ,$581.00 ,Visa,Delivered,4
+ORD-0159,9/14/2024,C004,Sarah Williams,Houston,USA,P010,Excel Mastery Guide,Books,Wiley,1,$28.00 ,15%,$4.20 ,$15.00 ,$38.80 ,Visa,Delivered,1
+ORD-0160,9/2/2024,C007,Daniel Wilson,San Antonio,USA,P007,Nike Air Max 270,Shoes,Nike,1,$150.00 ,5%,$7.50 ,$10.00 ,$152.50 ,Visa,Delivered,3
+ORD-0161,11/7/2024,C003,Michael Smith,Chicago,USA,P002,Samsung Galaxy S24,Electronics,Samsung,2,$849.00 ,0%,$0.00 ,$15.00 ,"$1,713.00 ",Cash on Delivery,Delivered,3
+ORD-0162,7/14/2024,C010,Megan Thomas,San Jose,USA,P009,Python for Beginners,Books,O'Reilly,3,$35.00 ,5%,$5.25 ,$15.00 ,$114.75 ,Visa,Delivered,1
+ORD-0163,12/1/2024,C009,Ryan Taylor,Dallas,USA,P012,Chanel No.5 Perfume,Perfumes,Chanel,2,$320.00 ,5%,$32.00 ,$10.00 ,$618.00 ,Apple Pay,Processing,
+ORD-0164,6/22/2024,C008,Ashley Moore,San Diego,USA,P007,Nike Air Max 270,Shoes,Nike,4,$150.00 ,15%,$90.00 ,$0.00 ,$510.00 ,PayPal,Delivered,3
+ORD-0165,7/10/2024,C003,Michael Smith,Chicago,USA,P011,Casio G-Shock Watch,Watches,Casio,4,$120.00 ,0%,$0.00 ,$0.00 ,$480.00 ,Visa,Processing,
+ORD-0166,8/9/2024,C002,Emily Johnson,Los Angeles,USA,P012,Chanel No.5 Perfume,Perfumes,Chanel,3,$320.00 ,20%,$192.00 ,$0.00 ,$768.00 ,Cash on Delivery,Delivered,5
+ORD-0167,10/14/2024,C006,Jessica Davis,Philadelphia,USA,P011,Casio G-Shock Watch,Watches,Casio,1,$120.00 ,5%,$6.00 ,$5.00 ,$119.00 ,Apple Pay,Processing,
+ORD-0168,1/27/2024,C005,David Brown,Phoenix,USA,P010,Excel Mastery Guide,Books,Wiley,3,$28.00 ,0%,$0.00 ,$0.00 ,$84.00 ,Mastercard,Delivered,2
+ORD-0169,12/2/2024,C008,Ashley Moore,San Diego,USA,P004,Sony WH-1000XM5 Headphones,Electronics,Sony,1,$349.00 ,0%,$0.00 ,$15.00 ,$364.00 ,PayPal,Delivered,5
+ORD-0170,4/25/2024,C007,Daniel Wilson,San Antonio,USA,P014,Carrier 1.5 Ton Split AC,Home Appliances,Carrier,5,$750.00 ,20%,$750.00 ,$15.00 ,"$3,015.00 ",Cash on Delivery,Delivered,1
+ORD-0171,11/7/2024,C005,David Brown,Phoenix,USA,P001,iPhone 15 Pro,Electronics,Apple,2,$999.00 ,0%,$0.00 ,$5.00 ,"$2,003.00 ",PayPal,Cancelled,
+ORD-0172,1/4/2024,C003,Michael Smith,Chicago,USA,P014,Carrier 1.5 Ton Split AC,Home Appliances,Carrier,2,$750.00 ,10%,$150.00 ,$10.00 ,"$1,360.00 ",Visa,Delivered,1
+ORD-0173,9/28/2024,C004,Sarah Williams,Houston,USA,P007,Nike Air Max 270,Shoes,Nike,4,$150.00 ,5%,$30.00 ,$5.00 ,$575.00 ,PayPal,Delivered,3
+ORD-0174,10/17/2024,C010,Megan Thomas,San Jose,USA,P002,Samsung Galaxy S24,Electronics,Samsung,1,$849.00 ,0%,$0.00 ,$0.00 ,$849.00 ,Visa,Shipped,
+ORD-0175,12/11/2024,C002,Emily Johnson,Los Angeles,USA,P005,Cotton T-Shirt,Clothing,H&M,4,$29.00 ,15%,$17.40 ,$10.00 ,$108.60 ,Apple Pay,Delivered,4
+ORD-0176,5/19/2024,C004,Sarah Williams,Houston,USA,P013,Nivea Moisturizing Cream,Beauty,Nivea,5,$18.00 ,0%,$0.00 ,$5.00 ,$95.00 ,PayPal,Delivered,5
+ORD-0177,9/6/2024,C009,Ryan Taylor,Dallas,USA,P011,Casio G-Shock Watch,Watches,Casio,3,$120.00 ,0%,$0.00 ,$0.00 ,$360.00 ,Cash on Delivery,Delivered,1
+ORD-0178,1/4/2024,C004,Sarah Williams,Houston,USA,P005,Cotton T-Shirt,Clothing,H&M,2,$29.00 ,20%,$11.60 ,$0.00 ,$46.40 ,PayPal,Shipped,
+ORD-0179,6/16/2024,C002,Emily Johnson,Los Angeles,USA,P001,iPhone 15 Pro,Electronics,Apple,4,$999.00 ,15%,$599.40 ,$10.00 ,"$3,406.60 ",Apple Pay,Delivered,5
+ORD-0180,12/26/2024,C004,Sarah Williams,Houston,USA,P009,Python for Beginners,Books,O'Reilly,5,$35.00 ,20%,$35.00 ,$5.00 ,$145.00 ,Visa,Delivered,4
+ORD-0181,1/10/2024,C008,Ashley Moore,San Diego,USA,P015,Samsung 500L Refrigerator,Home Appliances,Samsung,1,"$1,200.00 ",20%,$240.00 ,$5.00 ,$965.00 ,Cash on Delivery,Delivered,4
+ORD-0182,12/29/2024,C007,Daniel Wilson,San Antonio,USA,P005,Cotton T-Shirt,Clothing,H&M,1,$29.00 ,5%,$1.45 ,$0.00 ,$27.55 ,Mastercard,Cancelled,
+ORD-0183,11/12/2024,C008,Ashley Moore,San Diego,USA,P014,Carrier 1.5 Ton Split AC,Home Appliances,Carrier,3,$750.00 ,0%,$0.00 ,$10.00 ,"$2,260.00 ",Mastercard,Processing,
+ORD-0184,8/11/2024,C010,Megan Thomas,San Jose,USA,P007,Nike Air Max 270,Shoes,Nike,5,$150.00 ,0%,$0.00 ,$10.00 ,$760.00 ,PayPal,Processing,
+ORD-0185,4/23/2024,C006,Jessica Davis,Philadelphia,USA,P013,Nivea Moisturizing Cream,Beauty,Nivea,2,$18.00 ,0%,$0.00 ,$15.00 ,$51.00 ,Cash on Delivery,Delivered,5
+ORD-0186,4/9/2024,C006,Jessica Davis,Philadelphia,USA,P006,Slim Fit Jeans,Clothing,Levi's,2,$79.00 ,0%,$0.00 ,$0.00 ,$158.00 ,Mastercard,Delivered,2
+ORD-0187,11/4/2024,C003,Michael Smith,Chicago,USA,P013,Nivea Moisturizing Cream,Beauty,Nivea,1,$18.00 ,0%,$0.00 ,$10.00 ,$28.00 ,Cash on Delivery,Delivered,5
+ORD-0188,8/17/2024,C010,Megan Thomas,San Jose,USA,P011,Casio G-Shock Watch,Watches,Casio,5,$120.00 ,0%,$0.00 ,$5.00 ,$605.00 ,Visa,Delivered,4
+ORD-0189,8/14/2024,C005,David Brown,Phoenix,USA,P013,Nivea Moisturizing Cream,Beauty,Nivea,3,$18.00 ,10%,$5.40 ,$0.00 ,$48.60 ,Visa,Delivered,3
+ORD-0190,8/24/2024,C008,Ashley Moore,San Diego,USA,P001,iPhone 15 Pro,Electronics,Apple,1,$999.00 ,0%,$0.00 ,$5.00 ,"$1,004.00 ",Visa,Delivered,5
+ORD-0191,10/31/2024,C009,Ryan Taylor,Dallas,USA,P007,Nike Air Max 270,Shoes,Nike,4,$150.00 ,10%,$60.00 ,$15.00 ,$555.00 ,Visa,Cancelled,
+ORD-0192,8/18/2024,C010,Megan Thomas,San Jose,USA,P011,Casio G-Shock Watch,Watches,Casio,2,$120.00 ,0%,$0.00 ,$15.00 ,$255.00 ,Mastercard,Delivered,1
+ORD-0193,8/18/2024,C002,Emily Johnson,Los Angeles,USA,P013,Nivea Moisturizing Cream,Beauty,Nivea,3,$18.00 ,15%,$8.10 ,$0.00 ,$45.90 ,Mastercard,Delivered,1
+ORD-0194,5/6/2024,C008,Ashley Moore,San Diego,USA,P008,Adidas Ultraboost 22,Shoes,Adidas,5,$180.00 ,10%,$90.00 ,$15.00 ,$825.00 ,PayPal,Delivered,3
+ORD-0195,7/17/2024,C007,Daniel Wilson,San Antonio,USA,P013,Nivea Moisturizing Cream,Beauty,Nivea,3,$18.00 ,15%,$8.10 ,$15.00 ,$60.90 ,PayPal,Delivered,1
+ORD-0196,6/17/2024,C002,Emily Johnson,Los Angeles,USA,P009,Python for Beginners,Books,O'Reilly,4,$35.00 ,0%,$0.00 ,$5.00 ,$145.00 ,Cash on Delivery,Shipped,
+ORD-0197,3/17/2024,C006,Jessica Davis,Philadelphia,USA,P002,Samsung Galaxy S24,Electronics,Samsung,5,$849.00 ,15%,$636.75 ,$0.00 ,"$3,608.25 ",PayPal,Cancelled,
+ORD-0198,12/1/2024,C007,Daniel Wilson,San Antonio,USA,P003,Dell XPS Laptop,Electronics,Dell,5,"$1,299.00 ",15%,$974.25 ,$0.00 ,"$5,520.75 ",Apple Pay,Delivered,3
+ORD-0199,3/6/2024,C009,Ryan Taylor,Dallas,USA,P002,Samsung Galaxy S24,Electronics,Samsung,4,$849.00 ,10%,$339.60 ,$5.00 ,"$3,061.40 ",PayPal,Delivered,2
+ORD-0200,4/19/2024,C006,Jessica Davis,Philadelphia,USA,P013,Nivea Moisturizing Cream,Beauty,Nivea,4,$18.00 ,0%,$0.00 ,$0.00 ,$72.00 ,Mastercard,Returned,
+,,,,,,,,,,,,,,,"$216,898.45 ",,,
